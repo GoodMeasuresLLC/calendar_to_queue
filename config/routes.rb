@@ -1,2 +1,3 @@
-Calendar2queue::Engine.routes.draw do
+CalendarToQueue::Engine.routes.draw do
+  resources :google_calendar_push, only: [:create]
 end

@@ -1,3 +1,7 @@
-= Calendar2queue
+= CalendarToQueue
 
-This project rocks and uses MIT-LICENSE.
+Mountable endpoint for Calendar Push Notifications from Google Calenders that
+are places into AWS Message Queues for consumption.
+
+= Configuration
+

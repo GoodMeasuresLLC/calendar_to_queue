@@ -1,4 +1,4 @@
-module Calendar2queue
+module CalendarToQueue
   module ApplicationHelper
   end
 end

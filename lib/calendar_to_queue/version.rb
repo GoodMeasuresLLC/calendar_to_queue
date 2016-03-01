@@ -1,3 +1,3 @@
-module Calendar2queue
+module CalendarToQueue
   VERSION = "0.0.1"
 end
