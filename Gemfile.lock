@@ -3,7 +3,7 @@ PATH
   specs:
     calendar_to_queue (0.0.1)
       aws-sdk (~> 2)
-      rails (~> 4.2.5.2)
+      rails (~> 4.2)
 
 GEM
   remote: https://rubygems.org/
