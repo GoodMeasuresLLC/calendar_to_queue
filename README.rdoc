@@ -1,5 +1,0 @@
-= CalendarToQueue
-
-Mountable endpoint for Calendar Push Notifications from Google Calenders that
-are placed into AWS Message Queues or a database for consumption.
-
