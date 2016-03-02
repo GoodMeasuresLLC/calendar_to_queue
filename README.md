@@ -86,9 +86,9 @@ If the queue does not exist in the region specified, it will be created.
 
 # Resources
 
-[Google Calendar API Overview]: https://developers.google.com/google-apps/calendar/overview
-[Google Calendar Push Notifications]: https://developers.google.com/google-apps/calendar/v3/push
-[AWS SQS Ruby Client]: https://docs.aws.amazon.com/sdkforruby/api/Aws/SQS.html
+[Google Calendar API Overview](https://developers.google.com/google-apps/calendar/overview)
+[Google Calendar Push Notifications](https://developers.google.com/google-apps/calendar/v3/push)
+[AWS SQS Ruby Client](https://docs.aws.amazon.com/sdkforruby/api/Aws/SQS.html)
 
 # TODO
 
@@ -100,7 +100,7 @@ If the queue does not exist in the region specified, it will be created.
 
 # Contributors
 
-- [John Naegle]: https://github.com/johnnaegle
+- [John Naegle](https://github.com/johnnaegle)
 
 ## License
 
