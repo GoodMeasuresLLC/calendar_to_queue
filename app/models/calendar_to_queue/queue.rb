@@ -1,6 +1,8 @@
 module CalendarToQueue
   class Queue < ActiveRecord::Base
 
+    require 'aws-sdk'
+
     def self.deliver(push)
       unless push.queue_name.blank?
         queue = lookup(push.queue_name)
