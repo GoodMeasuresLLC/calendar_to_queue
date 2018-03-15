@@ -1,3 +1,5 @@
+**THIS GEM IS NOT COMPLETE**
+
 # CalendarToQueue
 
 Mountable endpoint for Calendar Push Notifications from Google Calenders that
